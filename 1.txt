@@ -1,2 +1,20 @@
 2 modify2 modify
 luobo modify master modifyluomo branch
+git init
+git add
+git status
+git commit -am
+git branch luobo
+git branch
+git checkout master
+
+ssh-keygen -t rsa -C 104322@qq.com
+
+git remote add origin https://
+git remote 
+
+git push 
+
+git push --set-upstream origin master
+
+
